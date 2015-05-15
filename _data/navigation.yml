@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Marching Band
+  url: /marching/
+
+- title: Catalog
+  url: /catalog/
+
+- title: FAQ
+  url: /faq/
+
+- title: Search
+  url: /search/

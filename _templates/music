@@ -1,0 +1,16 @@
+---
+layout: music
+title: {{ title }}
+artist:
+arranger:
+price:
+youtube:
+soundcloud:
+gumroad:
+modified:
+categories: {{ dir }}
+excerpt:
+tags: []
+image:
+  feature:
+---
