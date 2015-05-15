@@ -4,7 +4,7 @@ title: Catalog
 excerpt: "A catalog of all compositions & arrangements published by Cascadian Music."
 
 ---
-<table class="table table-condensed all-caps">
+<table class="table table-condensed catalog-text">
   <tr>
     <th>Title</th>
     <th>Artist</th>
