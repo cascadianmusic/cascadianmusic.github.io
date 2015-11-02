@@ -18,8 +18,8 @@
 
 /* catalog text */
 .catalog-text {
-   @include font-size-small
-   text-transform: uppercase;
+    text-size: small;
++   text-transform: uppercase;
 }
 
 /* center text */
