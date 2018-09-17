@@ -6,7 +6,8 @@ arranger: "Max Bogard"
 price: "15"
 youtube: "ICYqnzWlAIQ"
 soundcloud: "happy-birthday"
-freelink: "https://drive.google.com/open?id=0B8mH8_IEUZqHVDZvYkN3MnJxQ0E"
+gumroad: "lvubj"
+freelink: 
 preview: soundcloud
 download: gumroad
 excerpt: "for Marching Band"
